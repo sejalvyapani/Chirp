@@ -1,0 +1,41 @@
+
+.design{
+    
+    height:90%;
+    width:100%;
+    
+    
+}
+h1{
+    font-size:xx-large;
+}
+.background1{
+    background-color:#ffc10714;;
+}
+
+.background{
+    background-color:#d5f4f4;
+}
+.box{
+    background-color: white;
+    border-radius: 5px;
+
+   
+    
+
+}
+
+.border1{
+   background-color:#fbf8f5;
+    border-radius: 5px;
+   
+    margin: 1cm;
+    border-style: solid;
+    border-color:  orange;
+    border-width: thin;
+}
+.pic {
+    margin-left: -25px;
+    
+}
+
