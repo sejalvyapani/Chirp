@@ -1,33 +1,15 @@
-
-  
-
-
-
-
-
 h1{
     font-size:xx-large;
 }
 .background1{
     background-color:#ffc10714;;
 }
-
 .background{
     background-color:#d5f4f4;
 }
-.box{
-    background-color: white;
-    border-radius: 5px;
-
-   
-    
-
-}
-
 .border1{
    background-color:#fbf8f5;
     border-radius: 5px;
-   
     margin: 1cm;
     border-style: solid;
     border-color:  orange;
@@ -35,29 +17,20 @@ h1{
 }
 .pic {
     margin-left: -25px;
-    
 }
 @media (max-width: 576px) { 
     .design{
-    
         background-repeat: no-repeat;
         background-size:  100% 100%;
-        
       background-image: url(image/Hero.png) ;
-      
-      
     }
  }
 @media (min-width: 768px)  { 
     .design{
-    
         background-repeat: no-repeat;
         background-size: contain;
         height:500px;
       background-image: url(image/hero_tablet.png);
       background-position: center;
-
-      
-      
     }
  }
